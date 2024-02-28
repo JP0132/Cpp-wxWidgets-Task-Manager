@@ -1,0 +1,5 @@
+# ignore vs studio stuff
+
+x64/
+
+Task_Manager/x64/
